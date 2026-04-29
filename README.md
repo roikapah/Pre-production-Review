@@ -1,4 +1,4 @@
-# Claude Code Quality Review Prompt Pack
+# App Quality Review Prompt Pack
 
 This prompt pack is designed for companies, founders, or non-developers who build software with Claude Code / coding agents but do not have strong software-development experience.
 
